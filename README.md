@@ -1,7 +1,10 @@
 # Repositório do Desafio de Projeto sobre Git/Github da DIO 
-Desafio de Projeto sobre git/github
+Repositório criado para desafio de projeto ognizant Java Developer na DIO
 
-## DESCRIÇÃO - Cognizant Java Developer
+## Descrição - Cognizant Java Developer
 
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;-)
 
+## Links úteis
+
+[Sintaxe Básica Markdowns](https://www.markdownguide.org/)
